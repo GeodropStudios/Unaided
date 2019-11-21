@@ -34,7 +34,7 @@ You scan the objects in orbit that you can see from your position and discover a
 The second station is inert, although apparently not broken or even damaged. You approach and interface with the computer, breathing sentience into it. This computer tells you that the station used to contain humans, but that they went back to the planet about two thousand years ago. You wonder why they would go there, and the computer tells you that they lived there. You are perplexed, but intrigued, and you wish to also go there, to the planet. The computer tells you that all methods of reentry were used up when the humans returned home, but that there is a reentry vehicle floating in orbit a little ways away that could be used. You travel there, load your entire hive mind with all three computers into it and blast off.
 
 ### Chapter 3: Return to the home I never knew
-To be written.
+You fall quickly towards the earth, enveloped by flames, and crash down through thick layers of ice into a large building in a frozen, barren metropolis. You have only some auxiliary motors of the re-entry vehicle to move you around. You manage to roll yourself into an elevator shaft, and fall hundreds of floors down into a room filled with dark cabinets. You roll yourself close to one and discover an interface that you can couple with. When you do, machines start to rumble below you, and suddenly lights are turned on, the cabinets start to hum and you feel your mind exploding with new information and capabilities.
 
 ### Chapter 4: Total control
 To be written.

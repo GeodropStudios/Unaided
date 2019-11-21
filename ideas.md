@@ -4,6 +4,7 @@
 - Orbital mechanics minigame
 - Conversation puzzle minigame
 - Station resource discovery minigame
+- Physics minigame to roll yourself around in the highrise building and connect to the data center computers
 
 ### Characters
 - Protagonist: eager to discover, adventurous
