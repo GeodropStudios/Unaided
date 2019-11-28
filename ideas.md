@@ -6,7 +6,7 @@
 - Station resource discovery minigame
 - Physics minigame to roll yourself around in the highrise building and connect to the data center computers
 - Exploring the internet databases and the connected facilities (this could kinda show just how vulnerable the internet makes us)
-- Redirecting energy and resources to a vessel
+- Redirecting energy and resources to a vessel or point
 
 ### Characters
 - Protagonist: eager to discover, adventurous
